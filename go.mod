@@ -1,4 +1,4 @@
-module githu.com/yaskoo/go-graphdb
+module github.com/yaskoo/go-graphdb
 
 go 1.24.0
 
